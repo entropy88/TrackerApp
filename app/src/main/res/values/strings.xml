@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ExerciseFour</string>
+    <string name="fetch">Start tracking me</string>
+    <string name="clear">Stop tracking me</string>
+</resources>
